@@ -14,10 +14,10 @@
 
 ## 🎓 Educational Qualification
 
-- *B.E. in Computer Engineering*  
-- *Institute:* TSEC Bandra(W), Mumbai  
-- *Expected Graduation:* May 2026
-- *Current Year:* 4th Year (Semester 7)
+- *Degree:* B.E. in Computer Engineering  
+- *Institute:* TSEC Bandra (W), Mumbai  
+- *Expected Graduation:* May 2026  
+- *Current Year:* 4th Year (Semester 7)  
 
 ## 🛠 Skills
 
