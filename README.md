@@ -7,41 +7,44 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ## 🎓 Educational Qualification
 
-- *B.E. in Computer Engineering*
-- *Institute:* TSEC Bandra(W) Mumbai
+- *B.E. in Computer Engineering*  
+- *Institute:* TSEC Bandra(W), Mumbai  
+- *Expected Graduation:* May 2026
 - *Current Year:* 4th Year (Semester 7)
 
 ## 🛠 Skills
 
-- *Mobile Development:* Flutter, Dart
-- *Web Development:* Node.js, Express.js, Firebase, MongoDB
-- *Tools:* Git
+- *Languages:* C, Java, Python, Dart, JavaScript, HTML5, CSS3
+- *Mobile Development:* Flutter  
+- *Web Development:* Node.js, Express.js  
+- *Databases:* MySQL, PostgreSQL, Firebase Firestore, MongoDB  
+- *Cloud & Tools:* Firebase, Git, Google Cloud Platform, Power BI, Microsoft 365, Acronis  
 
 ## 💻 Personal Projects
 
-### [Expense Tracking App](https://github.com/HarshAshGangar/Pennywise)
-<p style="color: #4682B4;">A Flutter app for tracking expenses with Firebase authentication and Firestore for data storage. Users can sign up, log in, and manage transactions, including creating, updating, and categorizing expenses.</p>
+### [Multi-Language Code Runner & DSA Practice App](https://github.com/HarshAshGangar/CodeAnywhere)
+<p style="color: #4682B4;">A Flutter app where users can write and run code in C, C++, Java, Python, and JavaScript. Features Firebase authentication, database operations, AI-powered DSA tests, a coding assistant, and a community forum.</p>
 
-### [ChatGPT Clone](https://github.com/HarshAshGangar/ChatBotAI)
-<p style="color: #4682B4;">A ChatGPT clone app developed using Flutter and the Gemini API for interactive AI conversations. Integrated with Google Sign-In for authentication and Firebase for storing chat history and user-uploaded images.</p>
+### [Flutter AI Chat Assistant](https://github.com/HarshAshGangar/ChatBotAI)
+<p style="color: #4682B4;">A ChatGPT-style assistant built with Flutter and Gemini API. Includes Google Sign-In, Firebase chat history storage, and image upload with Firebase Storage.</p>
 
-### [Book Reading App](https://github.com/HarshAshGangar/Mangadeck)
-<p style="color: #4682B4;">A Flutter app designed for managing comic collections, featuring navigation between Favorites, Recent, Downloads, and Account screens. Firebase integration ensures efficient data handling and user preference management. (Ongoing project)</p>
+### [puzzle_game (pub.dev)](https://github.com/HarshAshGangar/puzzle_game)
+<p style="color: #4682B4;">A published Flutter package offering interactive 4x4 puzzle gameplay with customizable UI, Lottie animations, and multiple storage options (SharedPreferences, REST API, Firebase). Released with documentation and examples for developers worldwide.</p>
 
 ## 📜 Certificates
 
 I have earned several certificates in the following areas, accessible through my [Google Drive](https://drive.google.com/drive/folders/1IM2ULt1NDVSW68LEULYWfUTMQqWPKFzK?usp=sharing):
 
-- Google Cloud
-- Power BI
+- Google Cloud  
+- Power BI  
 
 ## 📬 Contact
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-gangar-b8a799327/) or reach out via email: <harshgan18@gmail.com>.
-
----
